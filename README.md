@@ -1,4 +1,4 @@
-# GarbageForClass
-Class demo
-
-This is another line.
+* Ryan Battista
+* ![My Image](awesome.gif)
+* 2028
+* Smart Boombox
